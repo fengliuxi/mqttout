@@ -1,4 +1,4 @@
-module mqttout
+module github.com/fengliuxi/mqttout
 
 go 1.17
 
